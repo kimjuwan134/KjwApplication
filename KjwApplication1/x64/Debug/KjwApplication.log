@@ -1,2 +1,5 @@
 ﻿  소스.cpp
-  KjwApplication.vcxproj -> C:\Users\Admin\Desktop\KjwApplication\KjwApplication1\x64\Debug\KjwApplication.exe
+C:\Users\Administrator\Desktop\김주완\KjwApplication\KjwApplication1\소스.cpp(29,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\Desktop\김주완\KjwApplication\KjwApplication1\소스.cpp(58,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\김주완\KjwApplication\KjwApplication1\소스.cpp(58,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  KjwApplication.vcxproj -> C:\Users\Administrator\Desktop\김주완\KjwApplication\KjwApplication1\x64\Debug\KjwApplication.exe

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="KjwApplication.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="openal32.dll" />
-    <None Include="sfml-audio-2.dll" />
     <None Include="sfml-audio-d-2.dll" />
     <None Include="sfml-graphics-2.dll" />
     <None Include="sfml-graphics-d-2.dll" />
@@ -54,5 +53,6 @@
     <None Include="sfml-system-d-2.dll" />
     <None Include="sfml-window-2.dll" />
     <None Include="sfml-window-d-2.dll" />
+    <None Include="sfml-audio-2.dll" />
   </ItemGroup>
 </Project>
