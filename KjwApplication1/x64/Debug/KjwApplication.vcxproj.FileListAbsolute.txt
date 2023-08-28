@@ -1,2 +1,3 @@
 C:\Users\Admin\Desktop\KjwApplication\x64\Debug\KjwApplication.exe
 C:\Users\Administrator\Desktop\김주완\KjwApplication\KjwApplication1\x64\Debug\KjwApplication.exe
+C:\Users\Admin\Desktop\KjwApplication\KjwApplication1\x64\Debug\KjwApplication.exe
