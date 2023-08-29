@@ -1,4 +1,6 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
+#include "(2023.8.18) 문자열 관련 함.h"
+
 
 #include <stdio.h>
 #include <string.h>

@@ -22,46 +22,46 @@ int main()
 {
 #pragma region _kbhit() 함수
 
-	//	char key = 0;
-	//	int x = 5;
-	//	int y = 5;
-	//	
-	//	// Update(  )
-	//	while (1)
-	//	{
-	//		gotoXY(x, y);
-	//		printf("★");
-	//	
-	//		if (_kbhit()) // 키보드 입력을 확인하는 함수
-	//		{
-	//			key = _getch();
-	//	
-	//			if (key == -32)
-	//			{
-	//				key = _getch();
-	//			}
-	//	
-	//			switch (key)
-	//			{
-	//			case UP:
-	//				if (y <= 0) break;
-	//				y--;
-	//				break;
-	//			case LEFT: 
-	//				if (x <= 0)break;
-	//				x -= 2 ;
-	//				break;
-	//			case RIGHT:
-	//				x+=2;
-	//				break;
-	//			case DOWN: 
-	//				y++;
-	//				break;
-	//			}
-	//			// 스크린을 지우는 함수
-	//			system("cls");
-	//		}
-	//	}
+		char key = 0;
+		int x = 5;
+		int y = 5;
+		
+		// Update(  )
+		while (1)
+		{
+			gotoXY(x, y);
+			printf("★");
+		
+			if (_kbhit()) // 키보드 입력을 확인하는 함수
+			{
+				key = _getch();
+		
+				if (key == -32)
+				{
+					key = _getch();
+				}
+		
+				switch (key)
+				{
+				case UP:
+					if (y <= 0) break;
+					y--;
+					break;
+				case LEFT: 
+					if (x <= 0)break;
+					x -= 2 ;
+					break;
+				case RIGHT:
+					x+=2;
+					break;
+				case DOWN: 
+					y++;
+					break;
+				}
+				// 스크린을 지우는 함수
+				system("cls");
+			}
+		}
 
 
 

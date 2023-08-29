@@ -7,6 +7,7 @@
 #include <windows.h>
 #include <time.h>
 
+
 #define UP 72
 #define LEFT 75
 #define RIGHT 77
