@@ -16,7 +16,7 @@
 struct Player
 {
 	int x, y;
-	const char* shape;
+	const char* shape[][];
 };
 
 struct Enemy
@@ -116,8 +116,12 @@ int main()
 	printf("두 문자열을 비교한 결과 : %d\n", strcmp(firstA, secondB));
 	*/
 
-
-
+	//  _____
+	// /     \
+	//ㅣ     ㅣ
+	//ㅣ     ㅣ
+	//ㅣ     ㅣ
+	//ㅣ_____ㅣ
 #pragma endregion
 
 	system("mode con cols=30 lines=25");
